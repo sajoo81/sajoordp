@@ -1,4 +1,4 @@
-name: sajooRDP
+name: amazonRDP
 
 on: workflow_dispatch
 
